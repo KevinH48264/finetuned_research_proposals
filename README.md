@@ -15,3 +15,5 @@ Expected result: You should see scraped text in 'autoscious_logs' directory.
 Expected result: You should end with a "autoscious_logs_complete_cleaned.csv" that can be used for fine-tuning.
 
 4. For fine-tuning, use Google Colab's free GPU. Run this notebook here: https://colab.research.google.com/drive/1T47NgQS-50PVAz9tW0I9e42KKrkfeceh#scrollTo=iwsMn_ax4hoO
+
+5. For comparative evluation, use evaluation.ipynb.
